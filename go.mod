@@ -1,4 +1,4 @@
-module github.com/milvus-io/milvus-sdk-go
+module github.com/Antoshqa/milvus-sdk-go
 
 go 1.12
 
